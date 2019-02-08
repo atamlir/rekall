@@ -25,6 +25,10 @@ major operating systems (see the tools directory).
 
 ## Quick start
 
+Prerquest for rekall on BF (aarm64):
+* gcc-6 
+* pip3
+
 Rekall is available as a python package installable via the pip
 package manager. To install it, first create a virtal env, switch to
 it and then install rekall:
